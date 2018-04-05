@@ -5,6 +5,5 @@ routes
   .add('groups', '/groups')
   .add('users', '/users')
   .add('documents', '/documents')
-  // .add('project', '/project/:projectSlug')
 
 module.exports = routes
